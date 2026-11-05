@@ -1,8 +1,153 @@
 {
-  "COLLECTION_NAME_HERE": [
+  "companies": [
     {
       "id": "1234",
-      "KEY_HERE": "VALUE_HERE"
+      "name": "Nintendo",
+      "location": "Japan",
+      "foundedYear": "1989"
+    },
+    {
+      "id": "2345",
+      "name": "Microsfot",
+      "location": "Us",
+      "foundedYear": "1970"
+    },
+    {
+      "id": "3456",
+      "name": "Sony Interactive Entertainment",
+      "location": "Japan",
+      "foundedYear": "1993"
+    },
+    {
+      "id": "4567",
+      "name": "Sega",
+      "location": "Japan",
+      "foundedYear": "1960"
+    },
+    {
+      "id": "5678",
+      "name": "Ubisoft",
+      "location": "France",
+      "foundedYear": "1986"
+    },
+    {
+      "id": "6789",
+      "name": "Electronic Arts",
+      "location": "Us",
+      "foundedYear": "1982"
+    },
+    {
+      "id": "7890",
+      "name": "Capcom",
+      "location": "Japan",
+      "foundedYear": "1979"
+    }
+  ],
+  "games": [
+    {
+      "id": "ABCD",
+      "title": "The Legend ofZelda: Ocarine of Time Remake",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "BCDE",
+      "title": "Mario Kart 8 Deluxe",
+      "category": "racing",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "CDEF",
+      "title": "Super Mario Odyssey",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "DEFG",
+      "title": "Super Smash Bros. Ultimate",
+      "category": "fighthing",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "EFGH",
+      "title": "Splatoon 3",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "FGHI",
+      "title": "Mario Tennis Aces",
+      "category": "sports",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "GHIJ",
+      "title": "Metroid Dread",
+      "category": "action",
+      "rating": null,
+      "companyId": "1234"
+    },
+    {
+      "id": "HIJK",
+      "title": "God of War Ragnarök",
+      "category": "action",
+      "rating": null,
+      "companyId": "3456"
+    },
+    {
+      "id": "IJKL",
+      "title": "Gran Turismo 7",
+      "category": "racing",
+      "rating": null,
+      "companyId": "3456"
+    },
+    {
+      "id": "JKLM",
+      "title": "Sonic Frontiers",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "4567"
+    },
+    {
+      "id": "KLMN",
+      "title": "Virtua Fighter 5: Ultimate Showdown",
+      "category": "fighthing",
+      "rating": null,
+      "companyId": "4567"
+    },
+    {
+      "id": "LMNO",
+      "title": "Assassin's Creed Mirage",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "5678"
+    },
+    {
+      "id": "MNOP",
+      "title": "EA Sports FC 25",
+      "category": "sports",
+      "rating": null,
+      "companyId": "6789"
+    },
+    {
+      "id": "NOPQ",
+      "title": "Street Fighter 6",
+      "category": "fighthing",
+      "rating": null,
+      "companyId": "7890"
+    },
+    {
+      "title": "Nuevo juego",
+      "category": "adventure",
+      "rating": null,
+      "companyId": "1234",
+      "id": "udaz-ac"
     }
   ]
 }
